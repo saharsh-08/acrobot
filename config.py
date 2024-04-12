@@ -15,8 +15,12 @@ class AppConfig():
 
 class BotConfig():
     PORT = 3978
-    APP_ID = "d71913cf-386e-4300-88d4-47a2c9045258"
+    APP_ID = ""
     APP_PASSWORD = ""
 
 # BotClientSecret = a548Q~8G7r9g4frvc2XQwmI19HselQ.8.alJOb_9
 # BotID = 10d3b89f-9300-48c3-803b-32d6bb6bb3d0
+# jprq auth Ibt0c02H8KBQXb6epjXvkS51uAZxGe24DoxY
+
+# APP_ID = "d71913cf-386e-4300-88d4-47a2c9045258"
+# APP_PASSWORD = "081bee9f-1dce-459b-ac87-c71a9cd6efc9"
